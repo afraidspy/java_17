@@ -2,7 +2,7 @@ public class PoliceBox {
     String color; // Color of the PoliceBox = null
     long age; // Age of the PoliceBox in years = 0
 
-    // Constructor method for PoliceBox
+    //M method for PoliceBox-, this is NOT a construtor
     public void PoliceBox() {
         color = "blue"; // Initialize color to blue
         age = 1200; // Initialize age to 1200
