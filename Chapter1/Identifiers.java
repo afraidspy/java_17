@@ -8,7 +8,7 @@
  *   Reserved Names: Some names are reserved and cannot be used as identifiers (e.g., var, _).
  */
 
-public class Identificadores {
+public class Identifiers {
     //Invalid: only can start with $, _
     //private String @34cats;
     private String _34cats;
