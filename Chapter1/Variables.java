@@ -1,7 +1,7 @@
 
 public class Variables {
 
-    public static void main (String params []){
+    private static final void main (String params []){
 
         if(params.length > 0)
             System.out.println("First exam: " + params[0]);
@@ -13,8 +13,14 @@ public class Variables {
         var name = "Jessica";
         var lastName = "López";
 
+
+
         System.out.println("Names is " + name);
 
+    }
+
+    public void main(String [] args){
+         System.out.println("Another method" );
     }
 
 }
