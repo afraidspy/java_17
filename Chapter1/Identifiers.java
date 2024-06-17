@@ -45,9 +45,10 @@ public class Identifiers {
 
         int badNumber = 1___000; // Multiple consecutive underscores
 
+        float counter = 50.0f;
+        counter++;
 
-
-
+        System.out.println(counter);
 
 
     }
