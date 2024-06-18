@@ -69,5 +69,12 @@ public class Operators {
 
         System.out.println("Assignment Operators:");
         System.out.println("Value of num after operations: " + num);
+
+        float x1 = 2;
+        int x2 = 4;
+
+        double div1 = x1 / x2;
+
+        System.out.println("Div1: "+div1);
     }
 }
