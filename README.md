@@ -87,7 +87,3 @@ This chapter discusses advanced topics in Java programming.
 - [Code Examples](./Chapter14/CodeExamples)
 - [Exercises](./Chapter14/Exercises)
 
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
