@@ -1,5 +1,6 @@
 .DS_Store
 Chapter1/*.class
+Chapter01/*.class
 Chapter02/*.class
 Chapter03/*.class
 Chapter04/*.class
