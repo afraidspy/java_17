@@ -5,7 +5,7 @@ class Camel {
  }
 
 class BactrianCamel extends Camel {
-    //attempting to assign weaker access privileges; was public
+    //attempting to assign weaker access privileges; was publicgit
     private int getNumberOfHumps() { // DOES NOT COMPILE
         return 2;
     }
