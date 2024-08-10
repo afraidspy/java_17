@@ -19,8 +19,4 @@ public class Variables {
 
     }
 
-    public void main(String [] args){
-         System.out.println("Another method" );
-    }
-
 }
