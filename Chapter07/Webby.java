@@ -5,7 +5,7 @@ abstract class Husky { // abstract required in class declaration
 }
 interface Poodle { // abstract optional in interface declaration
     //protected String name;  only permiiteed public
-    String name;
+    String name="";
     void play(); // abstract optional in method declaration, the methos in interfaces are public by default
 }
 
