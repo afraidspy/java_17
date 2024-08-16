@@ -1,4 +1,4 @@
-package Chapter07;
+
 enum OnlyOne {
     ONCE(true);
     private OnlyOne(boolean b) {
