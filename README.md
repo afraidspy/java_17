@@ -1,6 +1,6 @@
 # Java 17
 
-- [Chapter 1: Building Blocks](#Chapter01)
+- [Chapter 01](https://github.com/afraidspy/java_17/tree/main/Chapter01)
 - [Chapter 2: Operators](#chapter02)
 - [Chapter 3: Making Decisions](#chapter-3-working-with-java-data-types)
 - [Chapter 4: Core APIs](#chapter-4-operators-and-decision-constructs)
