@@ -1,6 +1,6 @@
 # Java 17
 
-- [Chapter 1: Building Blocks](#chapter01)
+- [Chapter 1: Building Blocks](#Chapter01)
 - [Chapter 2: Operators](#chapter02)
 - [Chapter 3: Making Decisions](#chapter-3-working-with-java-data-types)
 - [Chapter 4: Core APIs](#chapter-4-operators-and-decision-constructs)
