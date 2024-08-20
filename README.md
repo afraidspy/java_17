@@ -1,20 +1,21 @@
 # Java 17
 
-- [Chapter 01](https://github.com/afraidspy/java_17/tree/main/Chapter01)
-- [Chapter 2: Operators](#chapter02)
-- [Chapter 3: Making Decisions](#chapter-3-working-with-java-data-types)
-- [Chapter 4: Core APIs](#chapter-4-operators-and-decision-constructs)
-- [Chapter 5: Methods](#chapter-5-creating-and-using-arrays)
-- [Chapter 6: Class Design](#chapter-6-using-loop-constructs)
-- [Chapter 7: Beyond Classes](#chapter-7-working-with-methods-and-encapsulation)
-- [Chapter 8: Lambdas and Fucntional Interfaces](#chapter-8-inheritance)
-- [Chapter 9: Collections and Generic](#chapter-9-handling-exceptions)
-- [Chapter 10: Streams](#chapter-10-java-api-overview)
-- [Chapter 11: Exceptions and Localization](#chapter-11-java-io)
-- [Chapter 12: Modules](#chapter-12-concurrency)
-- [Chapter 13: Concurrency](#chapter-13-java-collections-framework)
-- [Chapter 14: I/O](#chapter-14-advanced-java-programming)
-- [Chapter 15: jdbc](#chapter-15-advanced-java-programming)
+- [Chapter 01: Building Blocks](https://github.com/afraidspy/java_17/tree/main/Chapter01)
+- [Chapter 02: Operators](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter02)
+- [Chapter 03: Making Decisions](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter03)
+- [Chapter 04: Core APIs](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter04)
+- [Chapter 05: Methods](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter05)
+- [Chapter 06: Class Design](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter06)
+- [Chapter 07: Beyond Classes](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter07)
+- [Chapter 08: Lambdas and Functional Interfaces](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter08)
+- [Chapter 09: Collections and Generic](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter09)
+- [Chapter 10: Streams](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter10)
+- [Chapter 11: Exceptions and Localization](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter11)
+- [Chapter 12: Modules](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter12)
+- [Chapter 13: Concurrency](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter13)
+- [Chapter 14: I/O](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter14)
+- [Chapter 15: JDBC](https://github.com/afraidspy/java_17/tree/main/Chapter01#Chapter15)
+
 
 ## Chapters
 
