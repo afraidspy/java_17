@@ -3,6 +3,7 @@ import java.util.Map;
 import java.util.TreeSet;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
+import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
 public class ExcercisesStream1 {
@@ -69,5 +70,15 @@ public class ExcercisesStream1 {
         Map<Integer, List<String>> result4 = names4
             .collect(Collectors.groupingBy(String::length));
         System.out.println(result4); // Prints a map grouping names by their lengths
+
+        System.out.println("Long Stream ...");
+
+        double result = LongStream.of(6L, 8L, 10L)
+        .mapToInt(x -> (int) x)
+        .boxed()
+        .collect(Collectors.groupingBy(x -> x))
+        .keySet()
+        .stream()
+        .collect(Collectors.averagingInt(x -> x));
     }
 }
