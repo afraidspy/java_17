@@ -43,4 +43,15 @@ java --module-path out --module modules01/com.example.HelloWorld
 ## Explicacion
 
 Usa --module-path out para especificar el directorio donde se encuentran los módulos compilados.
+Ejecuta el módulo modules01 y la clase principal 
+
+## Explicacion
+
+Usa --module-path out para especificar el directorio donde se encuentran los módulos compilados.
+Ejecuta el módulo modules01 y la clase principal com.example.HelloWorld
+
+## Explicacion
+
+Usa --module-path out para especificar el directorio donde se encuentran los módulos compilados.
 Ejecuta el módulo modules01 y la clase principal com.exa
+
